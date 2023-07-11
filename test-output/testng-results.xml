@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-11T10:19:01 IST" name="Suite" finished-at="2023-07-11T10:19:40 IST" duration-ms="39141">
+    <groups>
+      <group name="smokeTest">
+        <method signature="AdminLoginTest.AdmnLgn()[pri:0, instance:houserental.AdminTest.AdminLoginTest@2b71e916]" name="AdmnLgn" class="houserental.AdminTest.AdminLoginTest"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2023-07-11T10:19:01 IST" name="Test" finished-at="2023-07-11T10:19:40 IST" duration-ms="39141">
+      <class name="houserental.AdminTest.AdminLoginTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:houserental.AdminTest.AdminLoginTest@2b71e916]" started-at="2023-07-11T10:19:01 IST" name="openBrowser" finished-at="2023-07-11T10:19:09 IST" duration-ms="8508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="loginToApplication()[pri:0, instance:houserental.AdminTest.AdminLoginTest@2b71e916]" started-at="2023-07-11T10:19:09 IST" name="loginToApplication" finished-at="2023-07-11T10:19:11 IST" duration-ms="1603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method signature="AdmnLgn()[pri:0, instance:houserental.AdminTest.AdminLoginTest@2b71e916]" started-at="2023-07-11T10:19:11 IST" name="AdmnLgn" finished-at="2023-07-11T10:19:40 IST" duration-ms="28938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdmnLgn -->
+      </class> <!-- houserental.AdminTest.AdminLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
