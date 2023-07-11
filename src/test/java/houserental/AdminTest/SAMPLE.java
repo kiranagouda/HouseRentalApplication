@@ -7,6 +7,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class SAMPLE {
 public static void main(String[] args) {
+	//welcome
 	WebDriverManager.firefoxdriver().setup();
 	WebDriver driver=new FirefoxDriver();
 }
