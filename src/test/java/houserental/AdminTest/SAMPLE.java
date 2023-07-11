@@ -10,6 +10,6 @@ public static void main(String[] args) {
 	//welcome
 	WebDriverManager.firefoxdriver().setup();
 	WebDriver driver=new FirefoxDriver();
-	//thank you
+	//THANK YOU ALL
 }
 }
